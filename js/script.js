@@ -87,7 +87,7 @@ const palavras= [
     },
 ];
 
-alert("Bem vindo! Antes de iniciar é importante saber que você tem apenas 6 tentativas! As palavras estão relacionadas a Linguagens de Programação, tipos de IDEs, Marcas e Componentes de PC. Boa Sorte!!!");
+alert("Bem vindo! Antes de iniciar é importante saber que você tem apenas 6 tentativas! As palavras estão relacionadas as Linguagens de Programação, aos tipos de IDEs, e as Marcas e Componentes de um PC. Boa Sorte!!!");
 
 criarPalavraSecreta();
 function criarPalavraSecreta(){
